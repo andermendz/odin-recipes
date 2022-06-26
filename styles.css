@@ -3,3 +3,8 @@
     width: 400px;
     border-radius: 10px;
 }
+
+.title{
+    font-family: 'Inter' ,serif;
+    font-weight: bold;
+}
